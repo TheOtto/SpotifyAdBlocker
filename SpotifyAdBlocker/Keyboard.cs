@@ -7,6 +7,7 @@ namespace SpotifyAdBlocker
 {
     public class Keyboard
     {
+        /***/
         [DllImport("user32.dll", CharSet = CharSet.Ansi, SetLastError = true, ExactSpelling = true)]
         public static extern void keybd_event(byte bVk, byte bScan, Int32 dwFlags, Int32 dwExtraInfo);
 

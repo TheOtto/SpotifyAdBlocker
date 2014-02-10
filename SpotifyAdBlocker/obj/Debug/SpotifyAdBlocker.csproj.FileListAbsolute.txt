@@ -1,0 +1,26 @@
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.exe.config
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.exe
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.pdb
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\MainWindow.baml
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\MainWindow.g.cs
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\App.g.cs
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker_MarkupCompile.cache
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.g.resources
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.Properties.Resources.resources
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.csproj.GenerateResource.Cache
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.exe
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.pdb
+C:\Users\Umut\Documents\Visual Studio 2012\Projects\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.csprojResolveAssemblyReference.cache
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.exe.config
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.exe
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.pdb
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.exe
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\bin\Debug\SpotifyAdBlocker.pdb
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.csprojResolveAssemblyReference.cache
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\MainWindow.baml
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\MainWindow.g.cs
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\App.g.cs
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker_MarkupCompile.cache
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.g.resources
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.Properties.Resources.resources
+C:\Users\umut.koseali\Desktop\SpotifyAdBlocker\SpotifyAdBlocker\obj\Debug\SpotifyAdBlocker.csproj.GenerateResource.Cache

@@ -7,4 +7,6 @@ Spotify Ad Blocker is an ad blocker project for Spotify. It simplify my daily li
 
 If you want to download executeable files you can use this below link:
 
+Download
+========
 www.umutcankoseali.com/docs/SpotifyAdBlocker.zip

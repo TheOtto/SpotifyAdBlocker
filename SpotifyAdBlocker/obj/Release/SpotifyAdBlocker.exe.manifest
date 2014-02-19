@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SpotifyAdBlocker.exe" size="11264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SpotifyAdBlocker.exe" size="11776">
       <assemblyIdentity name="SpotifyAdBlocker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+JNujIeZ+FDP0tSTxHkKORY7lP2A78TEjoABufOSpCs=</dsig:DigestValue>
+        <dsig:DigestValue>qWOQUWRh49G9feiPK6v/jYWLGBRsuRSdYVkwZoBKl0I=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

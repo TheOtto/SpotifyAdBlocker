@@ -34,8 +34,6 @@ namespace SpotifyAdBlocker
                     if (File.ReadAllText(Location.FindAppDomain() + "\\blocklist.txt").Contains(artist))
                     {
                         CmdOperations.AdMute();
-                        //if(CmdOperations.IsMuted && !AttachProcess.IsPlaying)
-                        //    Keyboard.SendKey(Keys.MediaPlayPause);
                     }
                 }
                 else
@@ -43,8 +41,6 @@ namespace SpotifyAdBlocker
                     if (!File.ReadAllText(Location.FindAppDomain() + "\\blocklist.txt").Contains(artist))
                     {
                         CmdOperations.UnMute();
-                        //if (!CmdOperations.IsMuted && AttachProcess.IsPlaying)
-                        //    Keyboard.SendKey(Keys.MediaPlayPause);
                     }
                 }
             }
@@ -58,8 +54,26 @@ namespace SpotifyAdBlocker
 
         private void MuteBTN_Click(object sender, RoutedEventArgs e)
         {
-            CmdOperations.AdMute();
-            Keyboard.SendKey(Keys.MediaPlayPause);
+            if (!CmdOperations.IsMuted)
+            {
+                CmdOperations.AdMute();
+                if (CmdOperations.IsMuted)
+                    Keyboard.SendKey(Keys.MediaPlayPause);
+            }
+            else
+            {
+                CmdOperations.UnMute();
+                if (!CmdOperations.IsMuted)
+                    Keyboard.SendKey(Keys.MediaPlayPause);
+            }
+        }
+
+        private void AddBTN_Click(object sender, RoutedEventArgs e)
+        {
+            using (var file = new StreamWriter("blocklist.txt", true))
+            {
+                file.WriteLine(artist);
+            }
         }
     }
 }

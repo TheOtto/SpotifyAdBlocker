@@ -1,9 +1,9 @@
 ﻿<Window x:Class="SpotifyAdBlocker.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Spotify Ad Blocker" Height="200" Width="200" WindowStyle="ToolWindow" Background="DodgerBlue">
     <Grid>
-        <Button x:Name="MuteBTN" Content="Mute/Unmute" HorizontalAlignment="Left" Margin="188,172,0,0" VerticalAlignment="Top" Width="137" Click="MuteBTN_Click"/>
-
+        <Button x:Name="MuteBTN" Content="Mute/Unmute" HorizontalAlignment="Left" Margin="49,110,0,0" VerticalAlignment="Top" Width="100" Click="MuteBTN_Click"/>
+        <Button x:Name="AddBTN" Content="Add to Block" HorizontalAlignment="Left" Margin="58,56,0,0" VerticalAlignment="Top" Width="80" Click="AddBTN_Click"/>
     </Grid>
 </Window>

@@ -9,4 +9,4 @@ If you want to download executeable files you can use this below link:
 
 Download
 ========
-www.umutcankoseali.com/docs/SpotifyAdBlocker.zip
+www.umutcankoseali.com/docs/Setup.zip
